@@ -1,0 +1,15 @@
+Overview of Learning:
+So far in my codeacademy.com learning, I covered basics like adding and subtracting, variables, and user input in the first lesson. Here is some sample code: 
+
+customer_one_tax = customer_one_total * sales_tax
+customer_one_total +=customer_one_tax
+print("Customer One Items: ")
+
+In lesson 2, I learned how to use boolean variables and expression, as well as if, eilf, and else statements. Here is some sample code of that:
+
+if planet == 1:
+  print("Venus gravity: 0.91")
+elif planet == 2:
+  print("Mars gravity: 0.38")
+  
+In lesson 3, I learned...
