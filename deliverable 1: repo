@@ -12,4 +12,4 @@ if planet == 1:
 elif planet == 2:
   print("Mars gravity: 0.38")
   
-In lesson 3, I learned...
+In lesson 3, I learned 
