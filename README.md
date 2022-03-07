@@ -1,1 +1,43 @@
-# Coding_II_Projects 2022
+# Coding II Progress
+All learning is done on [https://www.codecademy.com/learn/learn-python-3](https://www.google.com). 
+
+## Learning Plan Timeline
+|  Date  |  Semester Milestone  |  Project Milestone   |
+|--------|:--------------------:| -------------------: |
+|  02/12 |  Deliverable 1       | Lesson 1, 2, 3, 4    |
+|  03/07 |  Deliverable 2       | Lesson 5, 6, 7, 8    |
+|  04/04 |  Deliverable 3       | Lesson 9, 10, 11, 12 |
+|  04/19 |  Deliverable 4       | project foundation + building |
+|  05/16 |  Deliverable 5       | debugging + adding features |
+|  06/02 |  Deliverable 6       | use feedback to finalize |
+
+
+## Deliverable Two Content
+I am currently learning new concepts on the *Lean Python 3* codecademy course, my goal for deliverable 2 was to complete sections 5 to 8 of the course and continure to be confident in programming lessons uotp this point, Concepts I learned include: 
+1. Functions
+2. Python Code Challenges
+3. Strings
+4. Modules
+### Sample code that demonstrates these things:
+
+(insert code here)
+
+### Deliverable 2 Reflection
+
+(insert reflection here)
+
+## Deliverable One Content
+I am currently learning new concepts on the *Learn Python 3* codecademy course, my goal for deliverable 1 was to complete the first 4 sections of the course and be confident in programming with that. Concepts I learned include:
+1. Basic Intro
+2. Control Flow
+3. Lists
+4. Loops
+### Sample code that demonstrates these things: 
+(Am I ready for School?)
+```
+def ready_for_school(backpack, pencil_case):
+  if (backpack == 'full' and pencil_case == 'full'):
+    print ("I'm ready for school!")
+```
+### Deliverable 1 Reflection
+Most of this was getting the very beginning and basics mastered. My goal for the deliverable was to complete the first 4 lessons, as defined in the Learning Plan. From this point forward, I need to complete one lesson each class to finish the course and still have time to program a final project. 
