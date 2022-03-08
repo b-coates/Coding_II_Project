@@ -13,6 +13,8 @@ All learning is done on [https://www.codecademy.com/learn/learn-python-3](https:
 
 
 ## Deliverable Two Content
+Here is a link to a video of me teaching how to use functions in Python: 
+
 I am currently learning new concepts on the *Lean Python 3* codecademy course, my goal for deliverable 2 was to complete sections 5 to 8 of the course and continure to be confident in programming lessons uotp this point, Concepts I learned include: 
 1. Functions
 2. Python Code Challenges
