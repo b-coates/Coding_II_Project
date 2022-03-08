@@ -13,7 +13,7 @@ All learning is done on [https://www.codecademy.com/learn/learn-python-3](https:
 
 
 ## Deliverable Two Content
-Here is a link to a video of me teaching how to use functions in Python: 
+Here is a link to a video of me summarizing my learning and teaching how to use lists and counting lists in Python: [https://drive.google.com/file/d/1nhwcdDY1MGO8DlrSkzykKENO7m6B06AL/view](https://www.google.com). 
 
 I am currently learning new concepts on the *Lean Python 3* codecademy course, my goal for deliverable 2 was to complete sections 5 to 8 of the course and continure to be confident in programming lessons uotp this point, Concepts I learned include: 
 1. Functions
@@ -21,12 +21,10 @@ I am currently learning new concepts on the *Lean Python 3* codecademy course, m
 3. Strings
 4. Modules
 ### Sample code that demonstrates these things:
-
-(insert code here)
+(refer to video linked above)
 
 ### Deliverable 2 Reflection
-
-(insert reflection here)
+My goal for this deliverable was to complete lessons 5 through 8. I met this goal. In order for me to stay on schedule in the future, I need to continue to complete one lesson per class and finish anything else at home. My learning plan is the same still because I have stayed on schedule. 
 
 ## Deliverable One Content
 I am currently learning new concepts on the *Learn Python 3* codecademy course, my goal for deliverable 1 was to complete the first 4 sections of the course and be confident in programming with that. Concepts I learned include:
