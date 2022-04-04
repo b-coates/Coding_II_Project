@@ -12,10 +12,29 @@ All learning is done on [https://www.codecademy.com/learn/learn-python-3](https:
 |  06/02 |  Deliverable 6       | use feedback to finalize |
 
 
+## Deliverable Three Content
+Here is a link to a video of me summarizing my learning and teaching how to use dictionaries in Python 3:
+
+
+I am currently learning new concepts on the *Learn Python 3* codecademy course, my goal for deliverable 3 was to complete sections 9 to 12 of the course and continue to be confident in programming languages upto this point, concepts I have learned so far include: 
+1. Dictionaries
+2. Files
+3. Classes
+4. (also code challenges II)
+### Sample code that demonstrates these things: 
+(refer also to video linked above)
+```
+key_to_check = "Landmark 81"
+if key_to_check in building_heights:
+  print(building_heights["Landmark 81"])
+```
+### Deliverable 3 Reflection: 
+Most of Deliverable 3 for me was wrapping up my learning and deciding how to code my final project. My goal was to finish lessons 9 to 12 and I did that on schedule. In order for me to stick with the plan better, I need to stick to the planned timeline and work on my project's foundation and building the first section of it. 
+
 ## Deliverable Two Content
 Here is a link to a video of me summarizing my learning and teaching how to use lists and counting lists in Python: [https://drive.google.com/file/d/1nhwcdDY1MGO8DlrSkzykKENO7m6B06AL/view](https://www.google.com). 
 
-I am currently learning new concepts on the *Lean Python 3* codecademy course, my goal for deliverable 2 was to complete sections 5 to 8 of the course and continure to be confident in programming lessons uotp this point, Concepts I learned include: 
+I am currently learning new concepts on the *Lean Python 3* codecademy course, my goal for deliverable 2 was to complete sections 5 to 8 of the course and continue to be confident in programming lessons uotp this point, Concepts I learned include: 
 1. Functions
 2. Python Code Challenges
 3. Strings
