@@ -16,7 +16,7 @@ All learning is done on [https://www.codecademy.com/learn/learn-python-3](https:
 Here is a link to a video of me summarizing my learning and teaching how to use dictionaries in Python 3:
 
 
-I am currently learning new concepts on the *Learn Python 3* codecademy course, my goal for deliverable 3 was to complete sections 9 to 12 of the course and continue to be confident in programming languages upto this point, concepts I have learned so far include: 
+I am currently learning new concepts on the *Learn Python 3* codecademy course and planning out my project, my goal for deliverable 3 was to complete sections 9 to 12 of the course and continue to be confident in programming languages upto this point, concepts I have learned so far include: 
 1. Dictionaries
 2. Files
 3. Classes
@@ -29,7 +29,7 @@ if key_to_check in building_heights:
   print(building_heights["Landmark 81"])
 ```
 ### Deliverable 3 Reflection: 
-Most of Deliverable 3 for me was wrapping up my learning and deciding how to code my final project. My goal was to finish lessons 9 to 12 and I did that on schedule. In order for me to stick with the plan better, I need to stick to the planned timeline and work on my project's foundation and building the first section of it. 
+Most of Deliverable 3 for me was wrapping up my learning and deciding how to code my final project. My goal was to finish lessons 9 to 12 and I did that on schedule. In order for me to stick with the plan better, I need to stick to the planned timeline and work on my project's foundation and building the first section of it. I have begun to plan out my project and decided on a collection of games because one game on its own would not be a good enough display of what I learned. 
 
 ## Deliverable Two Content
 Here is a link to a video of me summarizing my learning and teaching how to use lists and counting lists in Python: [https://drive.google.com/file/d/1nhwcdDY1MGO8DlrSkzykKENO7m6B06AL/view](https://www.google.com). 
