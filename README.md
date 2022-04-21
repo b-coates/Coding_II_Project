@@ -12,7 +12,31 @@ All learning is done on [https://www.codecademy.com/learn/learn-python-3](https:
 |  06/02 |  Deliverable 6       | use feedback to finalize |
 
 
-## Deliverable Three Content
+## Deliverable Four Content:
+Here is a link to a video of me summarizing my project progress and things I have learned to do in Python 3:
+
+
+I am currently working on my final project on *replit*. So far I have made two games, Hangman and Tic-Tac-Toe. I am now working on my third, a Geopgraphy Trivia Quiz. My goal for Deliverable 4 was to complete two to three games and learn all the concepts required to code those programs. New concepts I learned specifically for these games include:
+1. How to code Python on a chromebook (very confusing to figure out)
+2. embedding if and for statements in variables
+3. more on returns, codeacademy did not fully cover that
+4. the slice function
+5. random function
+
+### Sample Code that demonstatrates the things above:
+```
+for char in word:
+      if char in guesses:
+        print(char)
+      else:word = random.choice(bag_of_words)
+  guesses = " "
+  turns = 10
+```
+### Deliverable 4 Reflection:
+Most of my progress in Deliverable 4 was me building three out of the five games I intend on building. My goal was to complete two to three games and I accomplished that on schedule with my learning plan. In order for me to stick to the plan, I need to finish my third game and code the fourth game. I have not decided what games to code, but that should be included in my timeline. 
+
+
+## Deliverable Three Content:
 Here is a link to a video of me summarizing my learning and teaching how to use dictionaries in Python 3:
 
 
@@ -31,7 +55,7 @@ if key_to_check in building_heights:
 ### Deliverable 3 Reflection: 
 Most of Deliverable 3 for me was wrapping up my learning and deciding how to code my final project. My goal was to finish lessons 9 to 12 and I did that on schedule. In order for me to stick with the plan better, I need to stick to the planned timeline and work on my project's foundation and building the first section of it. I have begun to plan out my project and decided on a collection of games because one game on its own would not be a good enough display of what I learned. 
 
-## Deliverable Two Content
+## Deliverable Two Content:
 Here is a link to a video of me summarizing my learning and teaching how to use lists and counting lists in Python: [https://drive.google.com/file/d/1nhwcdDY1MGO8DlrSkzykKENO7m6B06AL/view](https://www.google.com). 
 
 I am currently learning new concepts on the *Lean Python 3* codecademy course, my goal for deliverable 2 was to complete sections 5 to 8 of the course and continue to be confident in programming lessons uotp this point, Concepts I learned include: 
@@ -45,7 +69,7 @@ I am currently learning new concepts on the *Lean Python 3* codecademy course, m
 ### Deliverable 2 Reflection
 My goal for this deliverable was to complete lessons 5 through 8. I met this goal. In order for me to stay on schedule in the future, I need to continue to complete one lesson per class and finish anything else at home. My learning plan is the same still because I have stayed on schedule. 
 
-## Deliverable One Content
+## Deliverable One Content:
 I am currently learning new concepts on the *Learn Python 3* codecademy course, my goal for deliverable 1 was to complete the first 4 sections of the course and be confident in programming with that. Concepts I learned include:
 1. Basic Intro
 2. Control Flow
