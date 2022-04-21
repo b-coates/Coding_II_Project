@@ -37,7 +37,8 @@ Most of my progress in Deliverable 4 was me building three out of the five games
 
 
 ## Deliverable Three Content:
-Here is a link to a video of me summarizing my learning and teaching how to use dictionaries in Python 3:
+Here is a link to a video of th summary of codecademy learning so far as well as the inital plans for my project:
+
 
 
 I am currently learning new concepts on the *Learn Python 3* codecademy course and planning out my project, my goal for deliverable 3 was to complete sections 9 to 12 of the course and continue to be confident in programming languages upto this point, concepts I have learned so far include: 
