@@ -11,6 +11,23 @@ All learning is done on [https://www.codecademy.com/learn/learn-python-3](https:
 |  05/16 |  Deliverable 5       | debugging + adding features |
 |  06/02 |  Deliverable 6       | use feedback to finalize |
 
+## Deliverable Five Content:
+I am currently wrapping up my 4th and final game in the set of games I have made. My goal for Deliverable 5 was to complete this game and learn all of the additional concepts required to code the new programs. New concepts I learned specifically for game 4 include:
+1. more user input
+2. adding some graphics
+
+### Some Source Code I Have Been Using:
+```
+    guess = input("Guess a character:")
+    guesses += guess
+    if guess not in word:
+      turns -= 1
+      print("Wrong!")
+      print(f"You have {turns} more guesses.")
+```
+### Deliverable 5 Reflection: 
+My goal for this deliverable was to complete my fourth and final game in the collection I have been programming, as shown in my learning plan and timeline. I met this goal by working in class a little bit at a time and expanding my learning to succeed. Looking forward, I need to get user feedback. Being that these are games, I plan to share my projects with my younger siblings and their friends. I also will ask classmates to look at the code to improve that. I have begun to add comments, but they are not complete. I need to finish that as well. On top of that I will need to get a license for each source code. That is my plan going forward to stay on schedule and complete the project. 
+
 
 ## Deliverable Four Content:
 Here is a link to a video of me summarizing my project progress and things I have learned to do in Python 3:
@@ -37,7 +54,7 @@ Most of my progress in Deliverable 4 was me building three out of the five games
 
 
 ## Deliverable Three Content:
-Here is a link to a video of th summary of codecademy learning so far as well as the inital plans for my project:
+Here is a link to a video of the summary of codecademy learning so far as well as the inital plans for my project:
 
 
 
