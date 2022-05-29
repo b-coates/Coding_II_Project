@@ -1,4 +1,9 @@
 # Coding II Progress
+I am learning how to code three games. Here is the link to the completed projects:
+Game 1: [https://github.com/b-coates/Hangman](https://www.google.com)
+Game 2:[https://github.com/b-coates/Tic-Tac-Toe](https://www.google.com)
+Game 3:[https://github.com/b-coates/Geography-Trivia](https://www.google.com)
+
 All learning is done on [https://www.codecademy.com/learn/learn-python-3](https://www.google.com). 
 
 ## Learning Plan Timeline
