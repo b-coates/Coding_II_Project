@@ -9,6 +9,9 @@ Game 3:[https://github.com/b-coates/Geography-Trivia](https://www.google.com)
 
 All learning is done on [https://www.codecademy.com/learn/learn-python-3](https://www.google.com). 
 
+## Feedback Plan
+My plan to receive feedback was to test my set of gamee programs with different users. First, I showed the code to other programmers and got feedback there. Then, I reached out to the ideal audience, kids, to test the games. I adjusted several secions of game 1, and cleaned up the code on each game. 
+
 ## Learning Plan Timeline
 |  Date  |  Semester Milestone  |  Project Milestone   |
 |--------|:--------------------:| -------------------: |
